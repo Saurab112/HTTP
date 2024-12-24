@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "wJKFYmccVdiL5TvettXrHlMS+5JaZttO7DYLGW1kyv4=",
+  "Source": "HTTP1",
+  "BasePath": "_content/HTTP1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

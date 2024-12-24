@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HTTP1.props" />
+</Project>
